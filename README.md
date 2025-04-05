@@ -1,6 +1,12 @@
 # Expense Management System
+A simple full-stack web app to **track daily expenses** with category-wise breakdown and analytics.
 
-This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
+- 📊 Built with **Streamlit** (frontend) and **FastAPI** (backend)
+- 🗃️ Uses **MySQL** for storing and retrieving expenses
+- 📅 Add, update, and analyze expenses by date and category
+- 📈 View summarized analytics with interactive charts
+
+Ideal for personal budgeting and daily expense tracking.
 
 
 ## Project Structure
