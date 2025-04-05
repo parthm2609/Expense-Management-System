@@ -31,3 +31,7 @@ This project is an expense management system that consists of a Streamlit fronte
    ```commandline
     streamlit run frontend/app.py
    ```
+# Output
+![Adding data](https://github.com/user-attachments/assets/e6930785-845c-421d-867c-9a5bc3584d89)
+![Analytics](https://github.com/user-attachments/assets/5d281c56-9262-4e57-b2c3-9e55cb05c80b)
+
